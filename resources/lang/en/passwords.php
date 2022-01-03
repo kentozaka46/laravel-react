@@ -15,8 +15,8 @@ return [
 
     'reset' => 'パスワードの再設定が完了しました！',
     'sent' => 'メールを送信しました！',
-    'throttled' => 'Please wait before retrying.',
-    'token' => 'This password reset token is invalid.',
+    'throttled' => '時間を置いてもう一度お試しください。',
+    'token' => 'トークンの期限が切れています。',
     'user' => 'そのメールアドレスを持つユーザーが見つかりません。',
 
 ];
